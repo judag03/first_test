@@ -1,0 +1,14 @@
+.container{
+    font-size: 90px;
+    margin: 40px;
+    background-color: '#333';
+
+    padding: 20px;
+}
+
+.someText{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:'#333';
+
+}
